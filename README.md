@@ -2,8 +2,8 @@
 
 Here to create unique styles and interactive experiences.
 
-Nova Systems 
+-Nova Systems 
  [Website](https://next-nova-systems.vercel.app/)
  
-P3R ui project 
+-P3R ui project 
  [Website](https://p3r-gamma.vercel.app/)
